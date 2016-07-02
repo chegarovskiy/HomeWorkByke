@@ -1,0 +1,9 @@
+D:\GitBykeFormsMyHometask\BykeFormsMyHomeTask\BykeFormsMyHomeTask\bin\Debug\BykeFormsMyHomeTask.exe.config
+D:\GitBykeFormsMyHometask\BykeFormsMyHomeTask\BykeFormsMyHomeTask\bin\Debug\BykeFormsMyHomeTask.exe
+D:\GitBykeFormsMyHometask\BykeFormsMyHomeTask\BykeFormsMyHomeTask\bin\Debug\BykeFormsMyHomeTask.pdb
+D:\GitBykeFormsMyHometask\BykeFormsMyHomeTask\BykeFormsMyHomeTask\obj\Debug\Bykes.csprojResolveAssemblyReference.cache
+D:\GitBykeFormsMyHometask\BykeFormsMyHomeTask\BykeFormsMyHomeTask\obj\Debug\BykeFormsMyHomeTask.CoreForm.resources
+D:\GitBykeFormsMyHometask\BykeFormsMyHomeTask\BykeFormsMyHomeTask\obj\Debug\BykeFormsMyHomeTask.Properties.Resources.resources
+D:\GitBykeFormsMyHometask\BykeFormsMyHomeTask\BykeFormsMyHomeTask\obj\Debug\Bykes.csproj.GenerateResource.Cache
+D:\GitBykeFormsMyHometask\BykeFormsMyHomeTask\BykeFormsMyHomeTask\obj\Debug\BykeFormsMyHomeTask.exe
+D:\GitBykeFormsMyHometask\BykeFormsMyHomeTask\BykeFormsMyHomeTask\obj\Debug\BykeFormsMyHomeTask.pdb
